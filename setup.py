@@ -17,7 +17,7 @@ setup(
     author_email='benjayphoto@gmail.com',
     url='https://github.com/freedomofpress/trackthenews',
     entry_points={
-        'console_scripts': ['ttn=trackthenews:main']
+        'console_scripts': ['trackthenews=trackthenews:main']
     },
     package_data={
         'trackthenews': ['fonts/*']
