@@ -7,7 +7,7 @@ with open('README.md') as f:
     readme = f.read()
 
 setup(
-    name='trackthenews-lefty',
+    name='trackthenews',
     version='0.1.9.1',
     description='Monitor RSS feeds for keywords and act on matching results. A special project of the Freedom of the Press Foundation.',
     long_description=readme,
